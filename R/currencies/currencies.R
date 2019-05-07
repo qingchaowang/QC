@@ -1,0 +1,7 @@
+source("~/GitHub/R/currencies/aud.R")
+source("~/GitHub/R/currencies/eur.R")
+source("~/GitHub/R/currencies/usd.R")
+source("~/GitHub/R/currencies/gbp.R")
+source("~/GitHub/R/currencies/zar.R")
+source("~/GitHub/R/currencies/ron.R")
+source("~/GitHub/R/currencies/sek.R")
